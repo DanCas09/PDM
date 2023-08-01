@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../../layout/custom_preview.xml" value="0.284375" />
+        <entry key="..\:/Users/Daniel/Desktop/PDM_13/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout-land/activity_about.xml" value="0.2292768959435626" />
+        <entry key="..\:/Users/Daniel/Desktop/PDM_13/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout-land/activity_game.xml" value="0.2" />
+        <entry key="..\:/Users/Daniel/Desktop/PDM_13/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout-land/activity_main.xml" value="0.2292768959435626" />
+        <entry key="..\:/Users/Daniel/Desktop/PDM_13/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout-land/activity_multiplayer.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Daniel/Desktop/PDM_13/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/CM_popup.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/Daniel/Desktop/PDM_13/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/activity_about.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/Daniel/Desktop/PDM_13/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/activity_game.xml" value="0.4" />
+        <entry key="..\:/Users/Daniel/Desktop/PDM_13/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/activity_history.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/Daniel/Desktop/PDM_13/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Daniel/Desktop/PDM_13/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/activity_multiplayer.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/Daniel/Desktop/PDM_13/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/activity_preview_puzzle.xml" value="0.2" />
+        <entry key="..\:/Users/Daniel/Desktop/PDM_13/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/authors_popup.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/Daniel/Desktop/PDM_13/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/cm_popup.xml" value="0.536" />
+        <entry key="..\:/Users/Daniel/Desktop/PDM_13/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/credits_popup.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/Daniel/Desktop/PDM_13/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/ff_popup.xml" value="0.4" />
+        <entry key="..\:/Users/Daniel/Desktop/PDM_13/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/item_history_view.xml" value="0.14114583333333333" />
+        <entry key="..\:/Users/tiago/Desktop/PDM/Chess4Android/app/src/main/res/layout/activity_main.xml" value="0.2740036231884058" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/drawable/ic_black_bishop.xml" value="0.2703125" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/drawable/ic_black_king.xml" value="0.2703125" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/drawable/ic_black_knight.xml" value="0.2703125" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/drawable/ic_black_pawn.xml" value="0.2703125" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/drawable/ic_white_bishop.xml" value="0.2703125" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/drawable/ic_white_king.xml" value="0.2703125" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/drawable/portugalFlag_background.xml" value="0.2703125" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout-land/activity_about.xml" value="0.264" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout-land/activity_game.xml" value="0.264" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout-land/activity_main.xml" value="0.264" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/activity_about.xml" value="0.25416666666666665" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/activity_challenges_list.xml" value="0.12360688956433637" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/activity_create_challenge.xml" value="0.12360688956433637" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/activity_credits.xml" value="0.25416666666666665" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/activity_game.xml" value="0.264" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/activity_multiplayer.xml" value="0.25416666666666665" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/activity_preview_puzzle.xml" value="0.15092592592592594" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/cm_popup_multiplayer.xml" value="0.25416666666666665" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/recycler_view_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/mipmap-anydpi-v26/portugalFlag.xml" value="0.1" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/mipmap-anydpi-v26/portugal_flag.xml" value="0.2703125" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/mipmap-anydpi-v26/portugal_flag_round.xml" value="0.1" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/mipmap-anydpi-v26/united_kingdom_flag.xml" value="0.15989583333333332" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/Repo/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/mipmap-anydpi-v26/united_kingdom_flag_round.xml" value="0.15989583333333332" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/RepoChess4Android/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/drawable-v24/circle.xml" value="0.2703125" />
+        <entry key="..\:/marco/ISEL/Trabalhos/7Semestre/PDM/Trabalhos/RepoChess4Android/PDM-2122i-LI5X-G13/Chess4Android/app/src/main/res/layout/activity_game.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/drawable/ic_black_pawn.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/drawable/ic_chess_pieces_sprite.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.22135416666666666" />
+        <entry key="app/src/main/res/drawable/ic_white_king.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/drawable/ic_white_queen.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2703804347826087" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
